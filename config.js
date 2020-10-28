@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://revanth.ml',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Revanth',
+  subtitle: 'Ethical Hacker, Blogger, Researcher, AI Enthusiast, Programmer, DevOps',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: 'G-ZJFTLC5S6Y',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Thopucherla Revanth Rao',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Ethical Hacker, Blogger, Researcher, AI Enthusiast, Programmer, DevOps',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: 'revanthstrakz',
+      telegram: 'revanthstrakz',
+      twitter: 'revanthstrakz',
+      github: 'revanthstrakz',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'revanthstrakz',
       line: '',
       gitlab: '',
       weibo: '',
